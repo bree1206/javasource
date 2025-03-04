@@ -32,3 +32,5 @@ public class VarIntEx1 {
         System.out.printf("나이 : %10d, 최고속도 : %d, max : %d\n",age,maxSpeed,max);
     }
 }
+
+
